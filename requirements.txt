@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scipy
+matplotlib
+reportlab
+python-pptx
+PyMuPDF
+python-docx
+requests
+openpyxl
+xlrd>=2.0.1
+odfpy>=1.4.1
+scikit-learn>=1.4
+
+python-dotenv
